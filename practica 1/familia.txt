@@ -1,0 +1,16 @@
+21 1 21 molineri 
+matias
+40 2 40 mechoni
+claudia
+43 43 43 molineri
+manuel
+77 77 77 mechoni
+alberto
+68 68 68 reinhard
+ada
+38 38 0 mechoni
+fabian
+18 18 0 mechoni
+lucas
+21 21 0 mechoni
+martin
