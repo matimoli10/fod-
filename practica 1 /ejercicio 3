@@ -12,6 +12,7 @@ b. Abrir el archivo anteriormente generado y
 
   iii. Listar en pantalla los empleados mayores de 70 años, próximos a jubilarse.
 
+NOTA: El nombre del archivo a crear o utilizar debe ser proporcionado por el usuario.
 
 program ejercicio_3;
 type 
