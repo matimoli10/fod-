@@ -1,0 +1,15 @@
+1 30000.00 samsung
+15 10 nuevos
+a33
+2 35000.00 iphone
+10 10 nuevos
+iphone 13
+3 20000.00 samsung
+15 20 economicos
+a32
+4 30000.00 iphone
+8 10 mas vendidos
+iphone 12
+5 15000.00 sansumg
+0 5 economicos
+j7
