@@ -104,6 +104,7 @@ begin
   rewrite(m);
   abrirdetalles(l,r);
   minimo(l,c,r);
+  read(m,dat);
   while(c.cod_usuario <> valoralto)do begin 
     while(dat.cod_usuario <> c.cod_usuario)do begin
       read(m,dat);
