@@ -112,7 +112,6 @@ begin
       dat.tiempo_total := dat.tiempo_total + c.tiempo_sesion;
       minimo(l,c,r);
     end;
-    seek(m,filepos(m)-1);
     write(m,dat);
   end;
   cerrardetalles(l);
